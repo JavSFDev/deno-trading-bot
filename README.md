@@ -7,7 +7,7 @@ v0.1.3-alpha
 
 2- clone: 
 ```sh 
-git clone https://github.com/Zizwar/deno-trad-bot.git 
+git clone https://github.com/JavSFDev/deno-trad-bot.git 
 ```
 
 3- rename file .env.exemple to .env and set  
@@ -93,5 +93,4 @@ Console
 
 notif
 ![Telegram](https://raw.githubusercontent.com/Zizwar/deno-trading-bot/main/screens/denobottelegram.jpg)
-##  API (Incoming)
-https://brah.im
+
